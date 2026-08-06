@@ -1,0 +1,7 @@
+﻿timestamp,sourceIP,eventCode,alertDescription,correctAnswer,
+15-08-2024 14:32,192.168.1.45,4625,Multiple failed logins from suspicious IP address,Malicious,
+15-08-2024 15:10,10.0.0.23,4624,Successful login during normal business hours,Benign,
+15-08-2024 16:45,172.16.5.100,4688,Suspicious process execution: powershell -enc,Malicious,
+15-08-2024 17:20,8.8.8.8,5145,Unusual network share access from external IP,Malicious,
+15-08-2024 18:05,192.168.1.1,4663,File access to sensitive HR folder by user,Benign,
+,,,,,
